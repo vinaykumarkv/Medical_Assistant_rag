@@ -1,4 +1,5 @@
-# Medical_Assistant_rag---
+# Medical_Assistant_rag
+---
 title: Local GGUF RAG Chatbot
 emoji: 🤖
 colorFrom: indigo
