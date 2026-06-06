@@ -56,7 +56,7 @@ Ensure you have **Python 3.11**, **Git LFS**, and the **uv** package manager ins
 ### 2. Clone and Setup Environment
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com/vinaykumarkv/Medical_Assistant_rag.git
 cd Medical_Assistant_rag
 
 # Initialize virtual environment and install dependencies
